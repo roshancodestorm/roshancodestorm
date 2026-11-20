@@ -1,4 +1,10 @@
-## Hi there 👋
+
+## Hi there  I'm Roshan kannaujiya 👋 
+<img width="1130" height="297" alt="image" src="https://github.com/user-attachments/assets/5e2a9d38-a747-4429-8700-2ef377b79a97" />
+
+Email Me 👉 ✉️ roshankannujiaya@gmail.com For Collaboration/Project or Anything Else. 😊😊
+                https://ledekh.netlify.app/ 
+ 
 
 <!--
 **roshancodestorm/roshancodestorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
